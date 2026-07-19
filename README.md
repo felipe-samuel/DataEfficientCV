@@ -33,13 +33,13 @@ Itirapina (imagens próximas à superfície).
 
 ### 3. Beyond the known: Enhancing Open Set Domain Adaptation with unknown exploration
 * **Publicação/Submissão:** Publicado na *Pattern Recognition Letters (PRL)*, vol. 189, 2025.
-* **Acesso ao Artigo:** Será adicionado em breve.
+* **Acesso ao Artigo:** [https://arxiv.org/abs/2412.18105](https://arxiv.org/abs/2412.18105).
 * **Código-Fonte:** Será adicionado em breve.
 * **Resumo:** Abordando o problema de Adaptação de Domínio de Conjunto Aberto (ODA), este estudo aprimora a rede OVANet ao explorar amostras desconhecidas provenientes do domínio fonte. Por meio de estratégias de aumento de dados e geração sintética baseada em Redes Adversárias Generativas (GANs), os limites de decisão do classificador são estreitados, melhorando significativamente a distinção entre classes conhecidas e desconhecidas.
 
 ### 4. Budget-aware pruning: Handling multiple domains with less parameters
 * **Publicação/Submissão:** Publicado no periódico *Pattern Recognition*, p. 111714, 2025.
-* **Acesso ao Artigo:** Será adicionado em breve.
+* **Acesso ao Artigo:** [https://arxiv.org/abs/2309.11464](https://arxiv.org/abs/2309.11464).
 * **Código-Fonte:** Será adicionado em breve.
 * **Resumo:** Com o foco de reduzir custos computacionais no Aprendizado Multi-Domínio (MDL), este trabalho apresenta o método de poda consciente de orçamento. O mecanismo incentiva o compartilhamento de filtros convolucionais entre diferentes domínios e poda os pesos que não são usados em nenhum domínio, entregando uma das primeiras arquiteturas capazes de reduzir simultaneamente tanto a complexidade computacional quanto a quantidade total de parâmetros para MDL.
 
@@ -54,7 +54,7 @@ Itirapina (imagens próximas à superfície).
 ### 2. Transferable-guided attention is all you need for video domain adaptation
 * **Publicação/Submissão:** Publicado na *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'25)*, Tucson, Arizona, EUA, 2025.
 * **Acesso ao Artigo:** [https://arxiv.org/abs/2407.01375](https://arxiv.org/abs/2407.01375)
-* **Código-Fonte:** Será adicionado em breve.
+* **Código-Fonte:** [https://github.com/Andre-Sacilotti/transferattn-project-code](https://github.com/Andre-Sacilotti/transferattn-project-code).
 * **Resumo:** Este trabalho propõe a arquitetura de Atenção Guiada Transferível (TransferAttn) e o bloco DTAB para adaptação de domínio não supervisionada em vídeos. Por meio de um inovador mecanismo de atenção, a rede é incentivada a focar nas relações de transferibilidade espaço-temporal e nos quadros de vídeo que apresentam menor discrepância entre os domínios fonte e alvo, alcançando desempenho no estado-da-arte.
 
 ### 3. Beyond Masking: Alternative Strategies for Generalizable Facial Expression Recognition
@@ -77,7 +77,7 @@ Itirapina (imagens próximas à superfície).
 * **Publicação/Submissão:** Publicado no *Conference on Graphics, Patterns and Images (SIBGRAPI'25)*, Salvador-BA, Setembro-Outubro 2025.
 * **Reserva Técnica:** *A participação do bolsista neste evento para apresentação do trabalho foi subsidiada com recursos da Reserva Técnica da FAPESP.*
 * **Acesso ao Artigo:** [https://arxiv.org/pdf/2509.09006](https://arxiv.org/pdf/2509.09006)
-* **Código-Fonte:** Será adicionado em breve.
+* **Código-Fonte:** [https://github.com/jurandy-almeida/E-MLNet](https://github.com/jurandy-almeida/E-MLNet).
 * **Resumo:** O trabalho introduz a E-MLNet, uma extensão da arquitetura MLNet projetada para o cenário de Adaptação de Domínio Universal (UniDA). A rede utiliza previsões do classificador de conjunto fechado para ponderar a entropia dos classificadores um-contra-todos de conjunto aberto, dando mais importância para as fronteiras de decisão mais informativas e relevantes para cada amostra alvo de forma individualizada.
 
 ## 📚 Resumos Expandidos em Anais de Congressos
